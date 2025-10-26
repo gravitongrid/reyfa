@@ -1,0 +1,46 @@
+{
+
+  "name": "treyfa-tech-server",
+  "version": "1.0.0",
+  "description": "Backend server for Treyfa-Tech website",
+
+  "name": "treyfat-tech-server",
+  "version": "1.0.0",
+  "description": "Backend server for Treyfat-Tech website",
+
+  "name": "treyfa-tech-server",
+  "version": "1.0.0",
+  "description": "Backend server for Treyfa-Tech website",
+
+  "name": "treyfat-tech-server",
+  "version": "1.0.0",
+  "description": "Backend server for Treyfat-Tech website",
+
+  "name": "treyfa-tech-server",
+  "version": "1.0.0",
+  "description": "Backend server for Treyfa-Tech website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "morgan": "^1.10.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": "v22.21.0",
+    "npm": "10.9.2"
+  }
+}
